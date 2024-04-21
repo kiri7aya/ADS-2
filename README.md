@@ -1,6 +1,7 @@
 # ADS-2
 Algorithms and Data Structures | assignment 2
-ADS Assignment Zhansaya Serikkali SE 2318
+
+Zhansaya Serikkali SE 2318
 
 The project has an interface MyList
 
